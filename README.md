@@ -6,7 +6,7 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 
 ## Lectures
-[link text](comp1238.md)
+[Comp1238](comp1238.md)
 
 ## Schedule
 ## Monday
